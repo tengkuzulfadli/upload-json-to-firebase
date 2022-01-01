@@ -1,0 +1,48 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "iTasker",
+            "desc": "Building a to-do app with a reminder functionality",
+            "stack": [
+            "react native",
+            "firebase"
+            ],
+            "startYear": 2021,
+            "endYear": 2022
+        },
+        {
+        "id": 2,
+            "name": "Finance News",
+            "desc": "Building a finance news app by pulling data from various news agencies in the world",
+            "stack": [
+            "react native",
+            "firebase"
+            ],
+            "startYear": 2021,
+            "endYear": 2021
+        },
+        {
+        "id": 3,
+            "name": "Serumpun",
+            "desc": "Building a marketplace for selling and promoting Southeast Asian foodies and items",
+            "stack": [
+            "react native",
+            "firebase"
+            ],
+            "startYear": 2021,
+            "endYear": 2021
+        },
+        {
+        "id": 4,
+            "name": "Note Taker",
+            "desc": "Building a note-taking app",
+            "stack": [
+            "react - PWA",
+            "firebase"
+            ],
+            "startYear": 2021,
+            "endYear": 2022
+        }
+    ]
+}
